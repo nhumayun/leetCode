@@ -1,5 +1,5 @@
-class romanToInt {
-    public int solution_romanToInt(String s) {
+class Solution {
+    public int romanToInt(String s) {
         int res = 0;   
         
         for(int i = 0; i < s.length(); i++) {
