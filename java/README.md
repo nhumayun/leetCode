@@ -1,5 +1,3 @@
-# leetCode
-
 | # | Title |Solution| Difficulty |
 |:----:|:--------------|:-:|:-----|
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Java](https://github.com/nhumayun/leetCode/blob/main/java/0001_two_sum.java) | Easy |
