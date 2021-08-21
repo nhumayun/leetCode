@@ -4,7 +4,7 @@ class romanToInt {
         
         for(int i = 0; i < s.length(); i++) {
             char x = s.charAt(i);
-                          
+                         
             switch (x) {
                 case 'I':
                     res += 1;
